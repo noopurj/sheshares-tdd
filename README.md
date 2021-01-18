@@ -1,3 +1,3 @@
 # NTU OSS - Women in Tech SheShares - TDD 
 
-![image](./images/tdd.png)
+![TDD](https://github.com/noopurj/sheshares-tdd/raw/main/images/tdd.PNG)
